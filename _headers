@@ -1,0 +1,2 @@
+/*
+  Permissions-Policy: camera=(self), microphone=(self), accelerometer=(self), gyroscope=(self), magnetometer=(self), xr-spatial-tracking=(self)
